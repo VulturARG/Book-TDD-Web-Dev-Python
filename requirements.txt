@@ -1,0 +1,10 @@
+lxml
+pytest
+cssselect
+django
+pygments
+docopt
+requests
+selenium
+fabric3
+pytest-xdist
